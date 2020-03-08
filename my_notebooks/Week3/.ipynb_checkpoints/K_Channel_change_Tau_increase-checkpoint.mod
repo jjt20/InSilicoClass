@@ -1,5 +1,5 @@
 NEURON {
-	SUFFIX K_Ch_tau
+	SUFFIX K_Ch_tau_inc
 	USEION k READ ek WRITE ik
 	RANGE gKv3bar, gKv3, mInf, mTau, ek
 }
@@ -39,7 +39,7 @@ INITIAL {
 PROCEDURE rates(){
     UNITSOFF
         mInf = 1/(1+exp(((v - (18.700))/(-9.700))))
-        mTau = 40.000 /(1+exp(((v-(-46.560))/(-44.140))))
+        mTau = 40.000 /(1+exp(((v-(-36.560))/(-44.140))))
     UNITSON
 }
 
