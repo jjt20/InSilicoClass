@@ -1,11 +1,11 @@
 {
   "base_url": "/user/ch-epfl-293757/",
-  "hostname": "192.168.130.108",
+  "hostname": "192.168.130.103",
   "notebook_dir": "/home",
   "password": false,
   "pid": 1,
-  "port": 49885,
+  "port": 51749,
   "secure": false,
   "token": "",
-  "url": "http://192.168.130.108:49885/user/ch-epfl-293757/"
+  "url": "http://192.168.130.103:51749/user/ch-epfl-293757/"
 }

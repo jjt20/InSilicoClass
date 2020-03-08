@@ -91,3 +91,7 @@ git push
 git add .
 git commit -m "Ex3"
 git push
+git add .
+git commit -m "Ex3"
+git push
+git pull
