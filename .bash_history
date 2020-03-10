@@ -107,3 +107,25 @@ git commit -m "something"
 git push
 git pull
 git pull
+git add .
+git commit -m "Week4"
+git push
+git pull
+vi .gitignore
+ls
+cd my_
+cd my_notebooks/
+ls
+git status
+cd Week4
+ls
+rm -r Homework/
+git add .
+git commit -m 'removes duplicate'
+git push
+git status
+git add .
+git status
+git commit -'Week4'
+git commit -m 'Week4'
+git push
