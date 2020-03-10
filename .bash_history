@@ -95,3 +95,15 @@ git add .
 git commit -m "Ex3"
 git push
 git pull
+git pull
+git commit -m "something"
+git add .
+git commit -m "something"
+git push
+git pull
+git push
+git add .
+git commit -m "something"
+git push
+git pull
+git pull
