@@ -129,3 +129,15 @@ git status
 git commit -'Week4'
 git commit -m 'Week4'
 git push
+git status
+git add *
+git commit -m "Ex3"
+git push
+git add .
+git commit -m "Finishes ex3"
+git push
+git pull
+git add .
+git commit -m "ex2"
+git push
+git pull
