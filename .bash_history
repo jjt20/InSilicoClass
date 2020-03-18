@@ -141,3 +141,11 @@ git add .
 git commit -m "ex2"
 git push
 git pull
+git add .
+git commit -m "Week5"
+git push
+git pull
+git push
+git pul
+git pull
+git pull
