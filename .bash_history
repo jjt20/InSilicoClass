@@ -149,3 +149,6 @@ git push
 git pul
 git pull
 git pull
+git add .
+git commit -m "Ex3"
+git push
