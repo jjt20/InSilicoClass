@@ -152,3 +152,15 @@ git pull
 git add .
 git commit -m "Ex3"
 git push
+git add .
+git add .
+git commit -m "Ex3"
+git commit -m "Ex3"
+git add .
+git commit -m "Ex3"
+git push
+git pull
+git pull
+git pull
+git pull
+git pull
