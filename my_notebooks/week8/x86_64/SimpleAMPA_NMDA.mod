@@ -1,0 +1,1 @@
+../SimpleAMPA_NMDA.mod
