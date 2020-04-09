@@ -170,3 +170,8 @@ git commit -m "Week 7 ex 4"
 git push
 git pull
 git pull
+git pull
+git add .
+git commit -m "Week 8 ex3"
+git push
+git pull
