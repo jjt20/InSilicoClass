@@ -175,3 +175,7 @@ git add .
 git commit -m "Week 8 ex3"
 git push
 git pull
+git pull
+git stash
+git pull
+git pull
