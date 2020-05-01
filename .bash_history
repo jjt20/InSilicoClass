@@ -179,3 +179,24 @@ git pull
 git stash
 git pull
 git pull
+git add .
+got commit -m "Ex 1-3"
+git commit -m "Ex 1-3"
+git push
+git add .
+git commit -m "Ex 1-3"
+git push
+git pull
+git status
+vi Week9_HomeWork.ipynb
+cd my_notebooks/Week9
+cd my_notebooks/week9
+vi Week9_HomeWork.ipynb 
+git add .
+git commit -m 'resolves merge conflict'
+git push
+git pull
+git add .
+git commit -m 'bugfixes'
+git push
+git pull

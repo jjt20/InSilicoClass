@@ -10,14 +10,21 @@
 
 # hlsearch on (H) or off (h):
 ~h
+# Last Search Pattern:
+~MSle0~/HEAD
+
 # Last Substitute String:
 $
 
 # Command Line History (newest to oldest):
+:wq
+|2,0,1587996570,,"wq"
 :q
-|2,0,1583829486,,"q"
+|2,0,1587996384,,"q"
 
 # Search String History (newest to oldest):
+?/HEAD
+|2,1,1587996534,47,"HEAD"
 
 # Expression History (newest to oldest):
 
@@ -28,22 +35,70 @@ $
 # Registers:
 
 # File marks:
-'0  1  0  ~/.gitignore
-|4,48,1,0,1583829486,"~/.gitignore"
-'1  247  0  ~/my_notebooks/Week2/Week2_HomeWork.ipynb
-|4,49,247,0,1582890119,"~/my_notebooks/Week2/Week2_HomeWork.ipynb"
-'2  1  0  ~/jnb.conf
-|4,50,1,0,1582032360,"~/jnb.conf"
-'3  8  0  /usr
-|4,51,8,0,1582032341,"/usr"
+'0  19  40  ~/my_notebooks/week9/Week9_HomeWork.ipynb
+|4,48,19,40,1587996571,"~/my_notebooks/week9/Week9_HomeWork.ipynb"
+'1  1  0  ~/Week9_HomeWork.ipynb
+|4,49,1,0,1587996384,"~/Week9_HomeWork.ipynb"
+'2  1  0  ~/.gitignore
+|4,50,1,0,1583829486,"~/.gitignore"
+'3  247  0  ~/my_notebooks/Week2/Week2_HomeWork.ipynb
+|4,51,247,0,1582890119,"~/my_notebooks/Week2/Week2_HomeWork.ipynb"
+'4  1  0  ~/jnb.conf
+|4,52,1,0,1582032360,"~/jnb.conf"
+'5  8  0  /usr
+|4,53,8,0,1582032341,"/usr"
 
 # Jumplist (newest first):
+-'  19  40  ~/my_notebooks/week9/Week9_HomeWork.ipynb
+|4,39,19,40,1587996571,"~/my_notebooks/week9/Week9_HomeWork.ipynb"
+-'  17  99  ~/my_notebooks/week9/Week9_HomeWork.ipynb
+|4,39,17,99,1587996534,"~/my_notebooks/week9/Week9_HomeWork.ipynb"
+-'  270483  0  ~/my_notebooks/week9/Week9_HomeWork.ipynb
+|4,39,270483,0,1587996448,"~/my_notebooks/week9/Week9_HomeWork.ipynb"
+-'  1  0  ~/my_notebooks/week9/Week9_HomeWork.ipynb
+|4,39,1,0,1587996444,"~/my_notebooks/week9/Week9_HomeWork.ipynb"
+-'  320  0  ~/my_notebooks/week9/Week9_HomeWork.ipynb
+|4,39,320,0,1587996433,"~/my_notebooks/week9/Week9_HomeWork.ipynb"
+-'  1  0  ~/Week9_HomeWork.ipynb
+|4,39,1,0,1587996384,"~/Week9_HomeWork.ipynb"
+-'  1  0  ~/Week9_HomeWork.ipynb
+|4,39,1,0,1587996384,"~/Week9_HomeWork.ipynb"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1583829486,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1583829486,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1583829486,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1583829486,"~/.gitignore"
 -'  247  0  ~/my_notebooks/Week2/Week2_HomeWork.ipynb
 |4,39,247,0,1582890119,"~/my_notebooks/Week2/Week2_HomeWork.ipynb"
 -'  247  0  ~/my_notebooks/Week2/Week2_HomeWork.ipynb
 |4,39,247,0,1582890119,"~/my_notebooks/Week2/Week2_HomeWork.ipynb"
+-'  247  0  ~/my_notebooks/Week2/Week2_HomeWork.ipynb
+|4,39,247,0,1582890119,"~/my_notebooks/Week2/Week2_HomeWork.ipynb"
+-'  247  0  ~/my_notebooks/Week2/Week2_HomeWork.ipynb
+|4,39,247,0,1582890119,"~/my_notebooks/Week2/Week2_HomeWork.ipynb"
+-'  247  0  ~/my_notebooks/Week2/Week2_HomeWork.ipynb
+|4,39,247,0,1582890119,"~/my_notebooks/Week2/Week2_HomeWork.ipynb"
+-'  247  0  ~/my_notebooks/Week2/Week2_HomeWork.ipynb
+|4,39,247,0,1582890119,"~/my_notebooks/Week2/Week2_HomeWork.ipynb"
+-'  247  0  ~/my_notebooks/Week2/Week2_HomeWork.ipynb
+|4,39,247,0,1582890119,"~/my_notebooks/Week2/Week2_HomeWork.ipynb"
+-'  247  0  ~/my_notebooks/Week2/Week2_HomeWork.ipynb
+|4,39,247,0,1582890119,"~/my_notebooks/Week2/Week2_HomeWork.ipynb"
+-'  1  0  ~/my_notebooks/Week2/Week2_HomeWork.ipynb
+|4,39,1,0,1582890114,"~/my_notebooks/Week2/Week2_HomeWork.ipynb"
+-'  1  0  ~/my_notebooks/Week2/Week2_HomeWork.ipynb
+|4,39,1,0,1582890114,"~/my_notebooks/Week2/Week2_HomeWork.ipynb"
+-'  1  0  ~/my_notebooks/Week2/Week2_HomeWork.ipynb
+|4,39,1,0,1582890114,"~/my_notebooks/Week2/Week2_HomeWork.ipynb"
+-'  1  0  ~/my_notebooks/Week2/Week2_HomeWork.ipynb
+|4,39,1,0,1582890114,"~/my_notebooks/Week2/Week2_HomeWork.ipynb"
+-'  1  0  ~/my_notebooks/Week2/Week2_HomeWork.ipynb
+|4,39,1,0,1582890114,"~/my_notebooks/Week2/Week2_HomeWork.ipynb"
+-'  1  0  ~/my_notebooks/Week2/Week2_HomeWork.ipynb
+|4,39,1,0,1582890114,"~/my_notebooks/Week2/Week2_HomeWork.ipynb"
 -'  1  0  ~/my_notebooks/Week2/Week2_HomeWork.ipynb
 |4,39,1,0,1582890114,"~/my_notebooks/Week2/Week2_HomeWork.ipynb"
 -'  1  0  ~/my_notebooks/Week2/Week2_HomeWork.ipynb
@@ -56,6 +111,78 @@ $
 |4,39,1,0,1582032360,"~/jnb.conf"
 -'  1  0  ~/jnb.conf
 |4,39,1,0,1582032360,"~/jnb.conf"
+-'  1  0  ~/jnb.conf
+|4,39,1,0,1582032360,"~/jnb.conf"
+-'  1  0  ~/jnb.conf
+|4,39,1,0,1582032360,"~/jnb.conf"
+-'  1  0  ~/jnb.conf
+|4,39,1,0,1582032360,"~/jnb.conf"
+-'  1  0  ~/jnb.conf
+|4,39,1,0,1582032360,"~/jnb.conf"
+-'  1  0  ~/jnb.conf
+|4,39,1,0,1582032360,"~/jnb.conf"
+-'  1  0  ~/jnb.conf
+|4,39,1,0,1582032360,"~/jnb.conf"
+-'  1  0  ~/jnb.conf
+|4,39,1,0,1582032360,"~/jnb.conf"
+-'  1  0  ~/jnb.conf
+|4,39,1,0,1582032360,"~/jnb.conf"
+-'  1  0  ~/jnb.conf
+|4,39,1,0,1582032360,"~/jnb.conf"
+-'  1  0  ~/jnb.conf
+|4,39,1,0,1582032360,"~/jnb.conf"
+-'  1  0  ~/jnb.conf
+|4,39,1,0,1582032360,"~/jnb.conf"
+-'  1  0  ~/jnb.conf
+|4,39,1,0,1582032360,"~/jnb.conf"
+-'  8  0  /usr
+|4,39,8,0,1582032341,"/usr"
+-'  8  0  /usr
+|4,39,8,0,1582032341,"/usr"
+-'  8  0  /usr
+|4,39,8,0,1582032341,"/usr"
+-'  8  0  /usr
+|4,39,8,0,1582032341,"/usr"
+-'  8  0  /usr
+|4,39,8,0,1582032341,"/usr"
+-'  8  0  /usr
+|4,39,8,0,1582032341,"/usr"
+-'  8  0  /usr
+|4,39,8,0,1582032341,"/usr"
+-'  8  0  /usr
+|4,39,8,0,1582032341,"/usr"
+-'  8  0  /usr
+|4,39,8,0,1582032341,"/usr"
+-'  8  0  /usr
+|4,39,8,0,1582032341,"/usr"
+-'  8  0  /usr
+|4,39,8,0,1582032341,"/usr"
+-'  8  0  /usr
+|4,39,8,0,1582032341,"/usr"
+-'  8  0  /usr
+|4,39,8,0,1582032341,"/usr"
+-'  8  0  /usr
+|4,39,8,0,1582032341,"/usr"
+-'  8  0  /usr
+|4,39,8,0,1582032341,"/usr"
+-'  8  0  /usr
+|4,39,8,0,1582032341,"/usr"
+-'  8  0  /usr
+|4,39,8,0,1582032341,"/usr"
+-'  8  0  /usr
+|4,39,8,0,1582032341,"/usr"
+-'  8  0  /usr
+|4,39,8,0,1582032341,"/usr"
+-'  8  0  /usr
+|4,39,8,0,1582032341,"/usr"
+-'  8  0  /usr
+|4,39,8,0,1582032341,"/usr"
+-'  8  0  /usr
+|4,39,8,0,1582032341,"/usr"
+-'  8  0  /usr
+|4,39,8,0,1582032341,"/usr"
+-'  8  0  /usr
+|4,39,8,0,1582032341,"/usr"
 -'  8  0  /usr
 |4,39,8,0,1582032341,"/usr"
 -'  8  0  /usr
@@ -74,6 +201,18 @@ $
 |4,39,8,0,1582032341,"/usr"
 
 # History of marks within files (newest to oldest):
+
+> ~/my_notebooks/week9/Week9_HomeWork.ipynb
+	*	1587996569	0
+	"	19	40
+	^	19	41
+	.	20	0
+	+	17	0
+	+	20	0
+
+> ~/Week9_HomeWork.ipynb
+	*	1587996382	0
+	"	1	0
 
 > ~/.gitignore
 	*	1583829485	0
