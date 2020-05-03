@@ -200,3 +200,18 @@ git add .
 git commit -m 'bugfixes'
 git push
 git pull
+git pull
+cd my_notebooks/week10
+ls
+git pull
+rm my_notebooks/week10/.ipynb_checkpoints/Week10_HomeWork-checkpoint.ipynb
+git stash
+git pull
+ls
+ls .ipynb_checkpoints/
+ls
+cd .ipynb_checkpoints/
+ls
+rm Week10_HomeWork-checkpoint.ipynb 
+cd ..
+git pull
