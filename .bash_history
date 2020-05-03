@@ -215,3 +215,11 @@ ls
 rm Week10_HomeWork-checkpoint.ipynb 
 cd ..
 git pull
+git add .
+git commit -m "ex4"
+git push
+git add .
+git commit -m 'ex3'
+git push
+git pull
+git status
