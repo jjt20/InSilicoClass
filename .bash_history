@@ -223,3 +223,7 @@ git commit -m 'ex3'
 git push
 git pull
 git status
+git add .
+git commit -m 'edits'
+git push
+git pull
