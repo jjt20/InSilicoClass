@@ -227,3 +227,10 @@ git add .
 git commit -m 'edits'
 git push
 git pull
+git add .
+git status
+git status
+git add .
+git add .
+git commit -m "ex3-4"
+git push

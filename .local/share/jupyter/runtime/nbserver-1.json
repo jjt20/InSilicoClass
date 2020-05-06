@@ -4,8 +4,8 @@
   "notebook_dir": "/home",
   "password": false,
   "pid": 1,
-  "port": 36717,
+  "port": 36703,
   "secure": false,
   "token": "",
-  "url": "http://192.168.130.101:36717/user/ch-epfl-293757/"
+  "url": "http://192.168.130.101:36703/user/ch-epfl-293757/"
 }
