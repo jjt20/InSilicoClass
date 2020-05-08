@@ -234,3 +234,9 @@ git add .
 git add .
 git commit -m "ex3-4"
 git push
+git pull
+git add .
+git commit -m "adds hw"
+git push
+git push
+git push
