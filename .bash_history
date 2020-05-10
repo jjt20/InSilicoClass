@@ -240,3 +240,14 @@ git commit -m "adds hw"
 git push
 git push
 git push
+git pull
+git add .
+git status
+git add .
+git commit -m "ex3"
+git push
+git add .
+git add .
+git commit -m "ex4"
+git push
+git pull
