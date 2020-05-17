@@ -251,3 +251,12 @@ git add .
 git commit -m "ex4"
 git push
 git pull
+git pull
+git stash .
+git pull
+git commit -m "thing"
+got add .
+git add .
+git commit -m "thing"
+git push
+git pull
